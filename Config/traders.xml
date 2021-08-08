@@ -1,0 +1,16 @@
+<config>
+
+<append xpath="/traders">
+	
+	<trader_info id="33" reset_interval="1" override_buy_markup="1.0" full_reset="true" min_inventory="1" max_inventory="9999" min_items_swapped="1" max_items_swapped="9999">
+		<trader_items count="all">
+			<item name="meleeToolPaintToolAdmin"/>
+			<item name="signPosterMovieMammasJustice"/>
+			<item name="metalPipeStraight"/>
+			<item name="cntWoodBurningStove"/>
+		</trader_items>
+	</trader_info>
+
+</append>
+
+</config>

@@ -1,0 +1,26 @@
+<configs>
+    <append xpath="/blocks/block[@name='signPosterMovieMammasJustice']">
+        <property name="EconomicValue" value="150"/>
+        <property name="EconomicBundleSize" value="1"/>
+        <property name="SellableToTrader" value="false"/>
+    </append>
+
+    <append xpath="/blocks/block[@name='metalPipeStraight']">
+        <property name="EconomicValue" value="150"/>
+        <property name="EconomicBundleSize" value="1"/>
+        <property name="SellableToTrader" value="false"/>
+    </append>
+
+    <append xpath="/blocks/block[@name='cntWoodBurningStove']">
+        <property name="EconomicValue" value="500"/>
+        <property name="EconomicBundleSize" value="1"/>
+        <property name="SellableToTrader" value="false"/>
+    </append>
+
+    <append xpath="/blocks">
+        <block name="Creative VM">
+            <property name="Extends" value="cntVendingMachine"/>
+            <property name="TraderID" value="33"/>
+        </block>
+    </append>
+</configs>

@@ -1,0 +1,5 @@
+<configs>
+    <append xpath="/items/item[@name='meleeToolPaintToolAdmin']">
+        <property name="EconomicValue" value="1500"/>
+    </append>
+</configs>
