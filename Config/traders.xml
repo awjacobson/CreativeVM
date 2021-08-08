@@ -5,7 +5,44 @@
 	<trader_info id="33" reset_interval="1" override_buy_markup="1.0" full_reset="true" min_inventory="1" max_inventory="9999" min_items_swapped="1" max_items_swapped="9999">
 		<trader_items count="all">
 			<item name="meleeToolPaintToolAdmin"/>
+
+			<item name="signPosterMovieLoneWolf"/>
 			<item name="signPosterMovieMammasJustice"/>
+			<item name="signPosterMovieSexualTension"/>
+			<item name="signPosterMovieTheater2159"/>
+			<item name="signPosterMovieTheaterLoneWolf"/>
+			<item name="signPosterMovieTheaterMammasJustice"/>
+			<item name="signPosterMovieTheaterSexualTension"/>
+
+			<item name="signBathroomSignUnisexWallMount"/>
+			<item name="signBathroomSignUnisexCeilingMount"/>
+			<item name="signBathroomSignWomenWallMount"/>
+			<item name="signBathroomSignWomenCeilingMount"/>
+			<item name="signBathroomSignMenWallMount"/>
+			<item name="signBathroomSignMenCeilingMount"/>
+
+			<item name="treeAzalea"/>
+			<item name="treeBrownGrassDiagonal"/>
+			<item name="treeBurntMaple01"/>
+			<item name="treeBurntMaple02"/>
+			<item name="treeBurntMaple03"/>
+			<item name="treeCactus01"/>
+			<item name="treeCactus02"/>
+			<item name="treeCactus03"/>
+			<item name="treeCactus04"/>
+			<item name="treeCactus05"/>
+			<item name="treeCactus06"/>
+			<item name="treeJuniper4m"/>
+
+			<item name="tv"/>
+			<item name="tv_fallen"/>
+			<item name="tv_large_1"/>
+			<item name="tv_large_2"/>
+			<item name="utilitySink"/>
+			<item name="wallClock"/>
+			<item name="wallClockBroken"/>
+			<item name="wallMountSinkCommercial"/>
+
 			<item name="metalPipeStraight"/>
 			<item name="cntWoodBurningStove"/>
 		</trader_items>

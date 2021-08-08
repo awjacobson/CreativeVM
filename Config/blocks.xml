@@ -1,5 +1,29 @@
 <configs>
-    <append xpath="/blocks/block[@name='signPosterMovieMammasJustice']">
+    <append xpath="/blocks/block[./property[@name='Extends' and @value='signPosterMovie2159']]">
+        <property name="EconomicValue" value="150"/>
+        <property name="EconomicBundleSize" value="1"/>
+        <property name="SellableToTrader" value="false"/>
+    </append>
+
+    <append xpath="/blocks/block[./property[@name='Extends' and @value='signPosterMovieTheater2159']]">
+        <property name="EconomicValue" value="150"/>
+        <property name="EconomicBundleSize" value="1"/>
+        <property name="SellableToTrader" value="false"/>
+    </append>
+
+    <append xpath="/blocks/block[@name='signBathroomSignUnisexWallMount']">
+        <property name="EconomicValue" value="150"/>
+        <property name="EconomicBundleSize" value="1"/>
+        <property name="SellableToTrader" value="false"/>
+    </append>
+
+    <append xpath="/blocks/block[@name='signBathroomSignUnisexCeilingMount']">
+        <property name="EconomicValue" value="150"/>
+        <property name="EconomicBundleSize" value="1"/>
+        <property name="SellableToTrader" value="false"/>
+    </append>
+
+    <append xpath="/blocks/block[@name='signBathroomSignWomenWallMount']">
         <property name="EconomicValue" value="150"/>
         <property name="EconomicBundleSize" value="1"/>
         <property name="SellableToTrader" value="false"/>
@@ -20,7 +44,9 @@
     <append xpath="/blocks">
         <block name="Creative VM">
             <property name="Extends" value="cntVendingMachine"/>
-            <property name="TraderID" value="33"/>
+ 	        <property name="CustomIcon" value="cntVendingMachine"/>
+            <property name="CustomIconTint" value="ff8080"/>
+           <property name="TraderID" value="33"/>
         </block>
     </append>
 </configs>
